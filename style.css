@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dropdown-menu
+{
+    background-color: rgb(132, 211, 211);
+}
+.navbar-nav>li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.mainbodytext
+{
+    display: flex;
+    flex-direction: column;
+}
+.sec1h2
+{
+    font-size: 2.4rem;
+    /* font-weight: 900; */
+}
+.card-img-top
+{
+    max-width: 50px;
+    border-radius: 50%;
+}
+.pcard
+{
+    font-size: small;
+}
+.carousel-indicators
+{
+    left: 0;
+    top: auto;
+    bottom: -20px;;
+}
+.text-muted
+{
+    font-size: small;
+}
